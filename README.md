@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript & Angular!**
 
-- 👯 I’m looking to collaborate on **any open sources projects!**
+- 👯 I’m looking to collaborate on **any open source projects!**
 
 - 🤝 I’m looking for help with **back-end architecture!**
 

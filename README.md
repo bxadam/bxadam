@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Football4U](https://github.com/stars/bxadam/lists/football4u)
 
-- 🌱 I’m currently learning **TypeScript & Angular!**
+- 🌱 I’m currently learning **TypeScript & Tailwind!**
 
 - 👯 I’m looking to collaborate on **any open source projects!**
 

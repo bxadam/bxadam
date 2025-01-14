@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Football4U](https://github.com/stars/bxadam/lists/football4u)
 
-- 🌱 I’m currently learning **TypeScript & Tailwind!**
+- 🌱 I’m currently learning **TypeScript, Tailwind & JAVA!**
 
 - 👯 I’m looking to collaborate on **the free open source API - "PokeAPI"**
 

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript & Tailwind!**
 
-- 👯 I’m looking to collaborate on **any open source projects!**
+- 👯 I’m looking to collaborate on **the free open source API - "PokeAPI"**
 
 - 🤝 I’m looking for help with **back-end architecture!**
 

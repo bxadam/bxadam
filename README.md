@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brandon Adam</h1>
-<h3 align="center">I love creating functional React projects, easy to manage back-ends and innovative solutions to pain points.</h3>
+<h3 align="center">I love creating functional and relatable projects, easy to manage back-ends and innovative solutions to pain points.</h3>
 
-- 🔭 I’m currently working on [Football4U](https://github.com/stars/bxadam/lists/football4u)
+- 🔭 I’m currently working on [Winnow] 
 
-- 🌱 I’m currently learning **TypeScript, Tailwind & JAVA!**
+- 🌱 I’m currently learning **Typescript, Tailwind & JAVA!**
 
 - 👯 I’m looking to collaborate on **the free open source API - "PokeAPI"**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/brandonxadam/](https://www.linkedin.com/in/brandonxadam/)
 
-- ⚡ My hobbies include... **Snowboarding, Gardening, Cooking, Fitness, & DIY Projects!**
+- ⚡ My hobbies include... **Snowboarding, Gardening, Cooking, Gaming, & DIY Projects!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

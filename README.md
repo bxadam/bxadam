@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brandon Adam</h1>
 <h3 align="center">I love creating functional and relatable projects, easy to manage back-ends and innovative solutions to pain points.</h3>
 
-- 🔭 I’m currently working on [Winnow] 
+- 🔭 I’m currently working on Budget Buster, a free app for monthly budgeting! 
 
-- 🌱 I’m currently learning **Typescript, Tailwind & JAVA!**
+- 🌱 I’m currently learning **Typescript, Python & Java!**
 
 - 👯 I’m looking to collaborate on **the free open source API - "PokeAPI"**
 

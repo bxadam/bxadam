@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/brandonxadam/](https://www.linkedin.com/in/brandonxadam/)
 
-- ⚡ My hobbies include... **Snowboarding, Gardening, Cooking, Gaming, & DIY Projects!**
+- ⚡ My hobbies include... **Snowboarding, Gardening, Football (soccer), Gaming, & DIY Projects!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

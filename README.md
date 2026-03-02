@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Brandon Adam</h1>
-<h3 align="center">I love creating functional and relatable projects, easy to manage back-ends and innovative solutions to pain points.</h3>
+<h3 align="center">I love creating functional and meaningful projects, easy to manage back-ends and innovative solutions to pain points.</h3>
 
-- 🔭 I’m currently working on Budget Buster, a free app for monthly budgeting! 
+- 🔭 I’m currently working on creating an eCommerce store, The Roots, my own business! 
 
-- 🌱 I’m currently learning **Typescript, Python & Java!**
+- 🌱 I’m currently learning **Typescript, Python & Frameworks!**
 
-- 👯 I’m looking to collaborate on **the free open source API - "PokeAPI"**
+- 👯 I’m looking to collaborate on my favorite **free open source API - "PokeAPI"**
 
-- 🤝 I’m looking for help with **back-end architecture!**
+- 🤝 I’m looking for tips on **system design!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bxadam](https://github.com/bxadam)
 
 - 📝 My favorite learning resource is [https://www.youtube.com/@Umacodes](https://www.youtube.com/@Umacodes)
-
-- 💬 Ask me about **conditional rendering in React!**
 
 - 📫 How to reach me **bx.adam03@gmail.com**
 
